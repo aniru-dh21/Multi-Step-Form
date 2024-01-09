@@ -25,3 +25,8 @@ Users Should be able to:
 ### Screenshot
 
 ![](./design/desktop-preview.jpg)
+
+### Links 
+
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/multi-step-form-1e4zfLmI6r)
+- Live Site URL: [Live Site URL](https://admirable-lamington-596505.netlify.app/)
