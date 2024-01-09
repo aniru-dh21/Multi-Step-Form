@@ -9,7 +9,7 @@ This is a solution to the [Multi Step Form Challenge on Frontend Mentor](https:/
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My Process](#my-process)
-  - [Built-with](#built-with)
+  - [Built with](#built-with)
 
 ## Overview
 
@@ -32,3 +32,12 @@ Users Should be able to:
 - Live Site URL: [Live Site URL](https://admirable-lamington-596505.netlify.app/)
 
 ## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- JavaScript
